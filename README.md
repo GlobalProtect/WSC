@@ -1,7 +1,5 @@
 # WSC
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/74723c4b258640808518c6ec17e357c0)](https://www.codacy.com/gh/PaloAltoNetworks/wsc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PaloAltoNetworks/wsc&amp;utm_campaign=Badge_Grade) [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/74723c4b258640808518c6ec17e357c0)](https://www.codacy.com/gh/PaloAltoNetworks/wsc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=PaloAltoNetworks/wsc&amp;utm_campaign=Badge_Coverage)
-
 WSC (WebSocket Channel) is a library that can be used to manage github.com/gorilla/websocket using channels.
 
 It provides 2 main functions:
